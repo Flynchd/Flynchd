@@ -4,7 +4,7 @@
 📫 You can reach via ⏰ TIME Travel 🚀....  </br>
 🌟 Let's push the boundaries of imagination and knowledge together! </br>
 
-Skills
+## Skills
 <p align="center">
   <img src="https://img.shields.io/badge/Git-%23181717.svg?logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/Python-%2314354C.svg?logo=python&logoColor=white" alt="Python">
@@ -34,6 +34,19 @@ Skills
   <img src="https://img.shields.io/badge/C%23-%23239120.svg?logo=c-sharp&logoColor=white" alt="C#">
   <img src="https://img.shields.io/badge/VB.NET-%2300599C.svg?logo=.net&logoColor=white" alt="VB.NET">
   <img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white" alt="C++">
+</p>
+
+## Let's connect 
+<p align="left">
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://linkedin.com/in/your-username">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://twitter.com/your-username">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white" alt="Twitter">
+  </a>
 </p>
 
 <!---
