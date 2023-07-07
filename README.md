@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @Flynchd
-- 👀 I’m interested in Multi-planetary Species...
-- 🌱 I’m currently learning Nothingness...
-- 💞️ I’m looking to collaborate on Multiverse...
-- 📫 How to reach me? ⏰ TIME Travel 🚀...
-
-
+👋 I'm Fynchd, an avid writer exploring different domains through books. </br>
+🌱 Currently, I'm expanding my knowledge in various fields, including technology, AI, blockchain, and quantum computing. </br>
+🤝 Collaboration is important to me, and I'm eager to connect and collaborate with like-minded individuals on exciting projects. </br>
+📫 You can reach via ⏰ TIME Travel 🚀....  </br>
+🌟 Let's push the boundaries of imagination and knowledge together! </br>
 
 Skills
 <p align="center">
@@ -29,6 +27,13 @@ Skills
   <img src="https://img.shields.io/badge/Black%20Hat-%23000000.svg?logo=security&logoColor=white" alt="Black Hat">
   <img src="https://img.shields.io/badge/Red%20Hat-%23EE0000.svg?logo=red-hat&logoColor=white" alt="Red Hat">
   <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?logo=linux&logoColor=white" alt="Linux">
+  <img src="https://img.shields.io/badge/Bash-%234EAA25.svg?logo=gnu-bash&logoColor=white" alt="Bash">
+  <img src="https://img.shields.io/badge/PowerShell-%230066AD.svg?logo=powershell&logoColor=white" alt="PowerShell">
+  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?logo=react&logoColor=white" alt="React">
+  <img src="https://img.shields.io/badge/Dart-%230175C2.svg?logo=dart&logoColor=white" alt="Dart">
+  <img src="https://img.shields.io/badge/C%23-%23239120.svg?logo=c-sharp&logoColor=white" alt="C#">
+  <img src="https://img.shields.io/badge/VB.NET-%2300599C.svg?logo=.net&logoColor=white" alt="VB.NET">
+  <img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white" alt="C++">
 </p>
 
 <!---
