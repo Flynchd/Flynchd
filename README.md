@@ -1,4 +1,4 @@
-👋 I'm Fynchd, an avid writer exploring different domains through books. </br>
+👋 I'm <img src="https://img.shields.io/badge/Flynchd-%23000000.svg?style=plastic" alt="Flynchd">, an avid writer exploring different domains through books. </br>
 🌱 Currently, I'm expanding my knowledge in various fields, including technology, AI, blockchain, and quantum computing. </br>
 🤝 Collaboration is important to me, and I'm eager to connect and collaborate with like-minded individuals on exciting projects. </br>
 📫 You can reach via ⏰ TIME Travel 🚀....  </br>
