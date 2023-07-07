@@ -38,14 +38,14 @@
 
 ## Let's connect 
 <p align="left">
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white" alt="Email">
-  </a>
   <a href="https://linkedin.com/in/your-username">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://twitter.com/your-username">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white" alt="Twitter">
+  </a>
+  <a href="https://youtube.com/your-username">
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=youtube&logoColor=white" alt="YouTube">
   </a>
 </p>
 
